@@ -8,7 +8,7 @@
     <title>Document</title>
 
     <link rel="stylesheet" href="{{url('../css/app.css')}}">
-    <link rel="stylesheet" href="{{url('../css/create.css')}}">
+    <link rel="stylesheet" href="{{url('../css/create-edit.css')}}">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 </head>
