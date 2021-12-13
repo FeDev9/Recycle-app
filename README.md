@@ -103,7 +103,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 Linkedin: [@FedericoCecconi](https://www.linkedin.com/in/federico-cecconi-27951619a/)
 
-Project Link: [https://github.com/fedev9/Vegetarian-Recipe-Website](https://github.com/fedev9/Recycle-app)
+Project Link: [https://github.com/fedev9/Recycle-app](https://github.com/fedev9/Recycle-app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -111,12 +111,12 @@ Project Link: [https://github.com/fedev9/Vegetarian-Recipe-Website](https://gith
 [contributors-shield]: https://img.shields.io/github/contributors/fedev9/Recycle-app.svg?style=for-the-badge
 [contributors-url]: https://github.com/fedev9/Recycle-app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/fedev9/Recycle-app.svg?style=for-the-badge
-[forks-url]: https://github.com/fedev9/Vegetarian-Recipe-Website/network/members
-[stars-shield]: https://img.shields.io/github/stars/fedev9/Vegetarian-Recipe-Website.svg?style=for-the-badge
-[stars-url]: https://github.com/fedev9/Vegetarian-Recipe-Website/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fedev9/Vegetarian-Recipe-Website.svg?style=for-the-badge
-[issues-url]: https://github.com/fedev9/Vegetarian-Recipe-Website/issues
-[license-shield]: https://img.shields.io/github/license/fedev9/Vegetarian-Recipe-Website.svg?style=for-the-badge
+[forks-url]: https://github.com/fedev9/Recycle-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/fedev9/Recycle-app.svg?style=for-the-badge
+[stars-url]: https://github.com/fedev9/Recycle-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fedev9/Recycle-app.svg?style=for-the-badge
+[issues-url]: https://github.com/fedev9/Recycle-app/issues
+[license-shield]: https://img.shields.io/github/license/fedev9/Recycle-app.svg?style=for-the-badge
 [license-url]: https://github.com/fedev9/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/federico-cecconi-27951619a/
