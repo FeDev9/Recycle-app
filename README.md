@@ -120,5 +120,5 @@ Project Link: [https://github.com/fedev9/Recycle-app](https://github.com/fedev9/
 [license-url]: https://github.com/fedev9/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/federico-cecconi-27951619a/
-[product-screenshot]: src/images/homepage.png
+[product-screenshot]: public/images/homepage.png
 [above-screenshot]: public/images/view.png
