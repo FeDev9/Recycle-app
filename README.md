@@ -47,6 +47,7 @@ The database has been created with MySQL.
 
 * PHP
 * Laravel
+* MySQL
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
