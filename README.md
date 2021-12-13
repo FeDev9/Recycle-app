@@ -57,7 +57,7 @@ The database has been created with MySQL.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Insert your Database information in .env.sample file and rename the file to .env .
+Insert your Database informations in .env.sample file and rename the file to .env .
 
 In migration folder you will find the .sql file to recreate the DB.
 
