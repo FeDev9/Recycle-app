@@ -17,7 +17,7 @@
     <div class="wrapper">
         <div class="header">
             <h1 class="title">Daily View</h1>
-            <a href="/">Back<i class="fas fa-home home-icon"></i></a>
+            <a href="/" class="home-icon">Back</a>
 
         </div>
 
