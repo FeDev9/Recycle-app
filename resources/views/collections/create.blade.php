@@ -9,7 +9,6 @@
 
     <link rel="stylesheet" href="{{url('../css/app.css')}}">
     <link rel="stylesheet" href="{{url('../css/create-edit.css')}}">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -17,7 +16,7 @@
     <div class="wrapper">
         <div class="header">
             <h1 class="title" style="font-size: 25px;">Create new garbage collection</h1>
-            <a href="/"><i class="fas fa-home home-icon"></i></a>
+            <a href="/" class="home-icon">Home</a>
 
         </div>
 

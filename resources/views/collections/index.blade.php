@@ -10,7 +10,7 @@
     <!-- STYLES -->
     <link rel="stylesheet" href="{{url('../css/app.css')}}">
     <link rel="stylesheet" href="{{url('../css/weekly-dailyView.css')}}">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -18,7 +18,7 @@
     <div class="wrapper">
         <div class="header">
             <h1 class="title">Weekly View</h1>
-            <a href="/"><i class="fas fa-home home-icon"></i></a>
+            <a href="/" class="home-icon">Home</a>
 
         </div>
 
