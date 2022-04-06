@@ -7,8 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 
-    <link rel="stylesheet" href="{{url::assets('../css/app.css')}}">
-    <link rel="stylesheet" href="{{url::assets('../css/weekly-dailyView.css')}}">
+    <link rel="stylesheet" href="{{URL::assets('../css/app.css')}}">
+    <link rel="stylesheet" href="{{URL::assets('../css/weekly-dailyView.css')}}">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 
