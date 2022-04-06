@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <link rel="stylesheet" href="{{asset('css/weekly-dailyView.css')}}">
-    <script src="{{asset('https://kit.fontawesome.com/a076d05399.js')}}" crossorigin="anonymous"></script>
+    <script src="{{url('https://kit.fontawesome.com/a076d05399.js')}}" crossorigin="anonymous"></script>
 </head>
 
 <body>
